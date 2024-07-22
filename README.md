@@ -1,16 +1,44 @@
-## Hi there 👋
+# Привет, я Михаил 👋
+Начинающий инженер программист с годовым опытом заказной разработки в коммерческой сфере. Я обладаю базовыми знаниями в области серверной разработки на Python
 
-<!--
-**Mike0001-droid/Mike0001-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=Mike0001-droid&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=Mike0001-droid&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/Mike0001-droid/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike0001-droid&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/DjangoMike">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Ключевые моменты
+* создатель сервиса для прослушивания музыки [ITRadio](https://itradio.team/)
+* создатель сервиса для решения психологических тестов [ProTest](https://tests.flexidev.ru/)
+* Принимал участие в создании cервиса размещения аудиорекламы в эфире «L» радио [L-Директ](https://direct.lradio.ru/)
+* Принимал участие в создании онлайн сервиса статистических расчётов [Stanly](https://stanly.statpsy.ru/)
+* В настоящее время работаю в [Flexites](https://flexites.org/)
+
+## 🛠 Технический стек
+*   Python/C/C++/C# Languages
+*   PostgreSQL, SQLite
+*   Django, DRF, Django-Ninja, Flask
+*   GitHub/GitLab/Gitea/Bitbucket
+
+### Исходники проектов
+
+*   [ITRadio](https://git.flexites.org/Students/ITRadio) - Сервис работает в паре с AzuraCast, подробное описание технологий, используемых в проекте описано в репозитории
+*   [ProTest] (https://github.com/Mike0001-droid/Service-for-testing) - Сервис для решения психологических тестов. Первый коммерческий проект, требует большого рефакторинга, который напрямую зависит от скорости работы сервиса
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/Mike0001-droid/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
